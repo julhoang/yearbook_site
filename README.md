@@ -9,7 +9,7 @@ It is a full fledge photo submission site that is used for Yearbook management.
 
 PUBLIC/MODERATOR VIEW Handling Files:
 
-![site roadmap](https://github.com/julhoang/yearbook_site/blob/imagegalleryfoo.png?raw=true)
+![site roadmap](https://github.com/julhoang/yearbook_site/blob/main/imagegalleryfoo.png?raw=true)
 
 1. index.php:
 	- Main page for Public/Moderator View
